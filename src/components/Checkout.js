@@ -4,7 +4,10 @@ import React, { Component } from 'react';
 
 class Checkout extends Component {
     render() {
-        return (<div>
+        return (
+        <div>
+             Checkout Component 
+             <Item />
         </div>)
     }
 }
